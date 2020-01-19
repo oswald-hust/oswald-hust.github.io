@@ -6,9 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics (WNLO) of Huazhong University of Science and Technology (HUST).
 
 ## Research Interest
 
@@ -18,10 +16,15 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Li C, Wang P, Sun C, et al. WiBPA: An Efficient Data Integrity Auditing Scheme Without Bilinear Pairings[J]. Computers, Materials & Continua, 2019, 58(2): 319-333.
 
 ## Education Info
 
 * Sep 2018 - Now Ph.D. in Wuhan National Laboratory for Optoelectronics (WNLO).
 * Sep 2014 - Jun 2018 Bachelor's degree, College of science, huazhong agricultural university (HZAU).
+
+
+## Contact
+
+* Mailing Address: > Luoyu Road 1037, Wuhan, China
+* Email: [wp_hust@hust.edu.cn](mailto:wp_hust@hust.edu.cn)
