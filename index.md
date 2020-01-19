@@ -1,3 +1,10 @@
+<!--
+ * @Description: None
+ * @version: 1.0
+ * @Author: oswaldpwang
+ * @Date: 2018-12-08 04:19:44
+ * @LastEditTime: 2020-01-19 11:25:10
+ -->
 ---
 layout: default
 ---
@@ -12,12 +19,19 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+1. Computer System Architecture
+2. Cache, Storage
+3. Machine Learning, Reinforcement Learning
 
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+
+## Education Info
+
+* Sep 2018 - Now Ph.D. in Wuhan National Laboratory for Optoelectronics (WNLO).
+* Sep 2014 - Jun 2018 Bachelor's degree, College of science, huazhong agricultural university (HZAU).
 
 ## Typography
 
