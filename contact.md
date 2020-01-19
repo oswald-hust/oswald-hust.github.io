@@ -3,24 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [wp_hust@hust.edu.cn](mailto:wp_hust@hust.edu.cn)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Luoyu Road 1037
 >
-> London
+> Wuhan, Hubei
 >
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> China
