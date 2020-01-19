@@ -26,5 +26,5 @@ Hi! I am a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics (WNL
 
 ## Contact
 
-* Mailing Address: > Luoyu Road 1037, Wuhan, China
+* Mailing Address: Luoyu Road 1037, Wuhan, China
 * Email: [wp_hust@hust.edu.cn](mailto:wp_hust@hust.edu.cn)
