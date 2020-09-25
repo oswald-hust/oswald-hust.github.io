@@ -8,11 +8,14 @@ layout: default
 
 Hi! I am a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics (WNLO) of Huazhong University of Science and Technology (HUST).
 
-## Research Interest
+## RESEARCH INTEREST
 
 1. Computer System Architecture
 2. Cache, Storage
 3. Machine Learning, Reinforcement Learning
+
+## WORK EXPERIENCE
+* May.2019-Now. Tencent Inc., Shenzhen, China.
 
 ## PUBLICATIONS
 
@@ -21,11 +24,11 @@ Hi! I am a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics (WNL
 
 ## EDUCATION
 
-* Sep 2018 - Now Ph.D. in Wuhan National Laboratory for Optoelectronics (WNLO).
+* Sep 2018 - Now Ph.D. in Wuhan National Laboratory for Optoelectronics (WNLO), Huazhong University of Science and Technology.
 * Sep 2014 - Jun 2018 Bachelor's degree, College of science, huazhong agricultural university (HZAU).
 
 
 ## CONTACT
 
-* Mailing Address: Luoyu Road 1037, Wuhan, China
+* Mailing Address: Wuhan National Laboratory for Optoelectonics, Huazhong University of Science and Technology, Luoyu Road 1037, Wuhan, China
 * Email: [wp_hust@hust.edu.cn](mailto:wp_hust@hust.edu.cn)
