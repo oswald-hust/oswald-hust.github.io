@@ -16,7 +16,8 @@ Hi! I am a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics (WNL
 
 ## Publications
 
-1. Li C, Wang P, Sun C, et al. WiBPA: An Efficient Data Integrity Auditing Scheme Without Bilinear Pairings[J]. Computers, Materials & Continua, 2019, 58(2): 319-333.
+1. [CMC]Li C, Wang P, Sun C, et al. WiBPA: An Efficient Data Integrity Auditing Scheme Without Bilinear Pairings[J]. Computers, Materials & Continua, 2019, 58(2): 319-333.
+2. Xie Y, Liu Y, Wang Y, et al. Label-Attended Hashing for Multi-Label Image Retrieval[J].
 
 ## Education Info
 
