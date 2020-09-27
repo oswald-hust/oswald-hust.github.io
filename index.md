@@ -25,7 +25,7 @@ Hi! I am a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics (WNL
 ## EDUCATION
 
 * Sep 2018 - Now Ph.D. in Wuhan National Laboratory for Optoelectronics (WNLO), Huazhong University of Science and Technology.
-* Sep 2014 - Jun 2018 Bachelor's degree, College of science, huazhong agricultural university (HZAU).
+* Sep 2014 - Jun 2018 Bachelor's degree, College of Science, Huazhong Agricultural University (HZAU).
 
 
 ## CONTACT
