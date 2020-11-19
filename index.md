@@ -4,7 +4,7 @@ layout: default
 
 ## BIOGRAPHY
 
-<img class="fit-picture" src="sherlock.jpg">
+<img class="profile-picture" src="sherlock.jpg">
 
 Hi! I am a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics (WNLO) of Huazhong University of Science and Technology (HUST).
 
