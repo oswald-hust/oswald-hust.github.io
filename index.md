@@ -21,6 +21,7 @@ Hi! I am a Ph.D. candidate in Wuhan National Laboratory for Optoelectronics (WNL
 
 1. [**CMC**] Chunhua Li, **Peng Wang**, Changhong Sun, Ke Zhou, Ping Huang. 2019. WiBPA: An Efficient Data Integrity Auditing Scheme Without Bilinear Pairings. Computers, Materials & Continua, 2019, 58(2): 319-333.
 2. [**IJCAI**] Yanzhao Xie, Yu Liu, Yangtao Wang, Lianli Gao, **Peng Wang**, Ke Zhou. Label-Attended Hashing for Multi-Label Image Retrieval. International Joint Conference on Artificial Intelligence 2020:955-962.
+3. [**FAST**]
 
 ## EDUCATION
 
